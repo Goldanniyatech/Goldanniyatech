@@ -3,7 +3,7 @@
 # Yoann AMAR ASSOULINE (Goldanniyatech) 
 
 ![Banner](Data/Goldanniyatech-Banner.png?raw=true "Goldanniyatech Banner") 
-*Renders of the Golden Project, a 3D software I am currently making as a solo dev, entirely from scratch!*
+*Renders of the Golden Project, a 3D software I am currently creating as a solo dev & entirely from scratch!*
 
 :cyclone: **3D Software Developer** (Programming & 2D/ 3D Graphics creation from scratch) 
 
