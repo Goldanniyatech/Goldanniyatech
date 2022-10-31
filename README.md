@@ -14,7 +14,7 @@
 
 ## Technologies
 
-| **Languages**  | Assembly • C • C++ • C# • Java • Python • |
+| **Languages**  | Assembly (MIPS) • C • C++ • C# • Java • Python • VisualBasic.NET • VBA (MS Office) |
 | -------------- | ----------------------------------------- |
 | **API, <br> Engines, <br> Frameworks** |  Net Core • Godot Engine • Unreal Engine • Unity • OpenGL • Vulkan |
 | **Computer Graphics <br> (2D • 3D)** | Autodesk 3DS Max • Autodesk Maya • Blender • Adobe Substance3D • Adobe After Effects • Adobe Photoshop |
