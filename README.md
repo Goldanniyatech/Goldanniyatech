@@ -9,7 +9,7 @@
 
 :cyclone: **Founder** of Goldanniyatech, a one-man company devoted to 3D software development & self-publication, mostly focused on video games
 
-:cyclone: **PhD Student** at Sorbonne University. Research subject: professional 3D software develpoment
+:cyclone: **PhD Student** at Sorbonne University. Research subject: professional 3D software development
 
 
 ## Technologies
