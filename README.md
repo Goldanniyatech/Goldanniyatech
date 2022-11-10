@@ -9,13 +9,15 @@
 
 :cyclone: **Founder** of Goldanniyatech, a one-man company devoted to 3D software development & self-publication, mostly focused on video games
 
-:cyclone: **PhD Student** at Sorbonne University. Research subject: professional 3D software development
+:cyclone: **PhD Student** at Sorbonne University, focusing on professional 3D software development
 
 
 ## Technologies
 
-| **Languages**  | Assembly (MIPS) • C • C++ • C# • Java • Python • VisualBasic.NET • VBA (MS Office) |
+| **Languages**  | C • C++ • C# • Java • Python |
 | -------------- | ----------------------------------------- |
-| **API, <br> Engines, <br> Frameworks** |  Net Core • Godot Engine • Unreal Engine • Unity • OpenGL • Vulkan |
-| **Computer Graphics <br> (2D • 3D)** | Autodesk 3DS Max • Autodesk Maya • Blender • Adobe Substance3D • Adobe After Effects • Adobe Photoshop |
-| **Web Dev (Full Stack)** | HTML • CSS • JavaScript • PHP |
+| **Game Engines** | Unreal Engine • Unity |
+| **Frameworks & API** |  .Net Core • OpenGL • Vulkan | 
+| **Computer Graphics <br> (2D • 3D)** | Autodesk 3DS Max • Autodesk Maya • Blender • Adobe After Effects • Adobe Substance3D • Adobe Photoshop |
+| **Web Dev - Languages** | HTML • CSS • JavaScript • PHP |
+| **Web Dev - Frameworks** | React • Symfony |
