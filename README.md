@@ -11,13 +11,11 @@
 
 :cyclone: **PhD Student** at Sorbonne University, focusing on professional 3D software development
 
-
 ## Technologies (Expertise)
 
-| **Languages**            | Assembly (MIPS) • C • C++ • C# • Java • Python |
-| ------------------------ | ---------------------------------------------- |
-| **Game Engines**         | Unity • Unreal Engine                          | 
-| **2D/ 3D Graphics**      | Adobe Photoshop • Adobe Substance3D • Autodesk 3DS Max • Autodesk Maya • Blender • Krita |
+| **Languages**             | Assembly (MIPS) • C • C++ • C# • Java • Python  |
+| :------------------------ | :---------------------------------------------- |
+| **Game Engines**          | Unity • Unreal Engine                           | 
+| **2D/ 3D Graphics**       | Adobe Photoshop • Adobe Substance3D • Autodesk 3DS Max • Autodesk Maya • Blender • Krita |
 | **Audio/ Video**         | Adobe After Effects • Adobe Audition • Adobe Premiere Pro  |
 | **Web Dev (Full Stack)** | HTML • CSS • JavaScript (ReactJS) • PHP (Symfony)          |
-
