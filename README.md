@@ -16,7 +16,7 @@
 
 |                          |                                                |
 | ------------------------ | ---------------------------------------------- |
-| **Languages**            | Assembly (MIPS) • C • C++ • C# • Java • Python |
+| __**Languages**__            | Assembly (MIPS) • C • C++ • C# • Java • Python |
 | **Game Engines**         | Unity • Unreal Engine                          | 
 | **2D/ 3D Graphics**      | Adobe Photoshop • Adobe Substance3D • Autodesk 3DS Max • Autodesk Maya • Blender • Krita |
 | **Audio/ Video**         | Adobe After Effects • Adobe Audition • Adobe Premiere Pro  |
