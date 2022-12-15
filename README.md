@@ -5,13 +5,13 @@
 [![Banner](Data/Goldanniyatech-Banner.png?raw=true "Goldanniyatech Banner")](https://www.goldanniyatech.com/)
 <p align="center"> Renders of the Golden Project, a 3D software I am currently creating as a solo dev & entirely from scratch! </p>
 
-💎 **3D Software Developer**, mostly programming in various languages & tools, and making 2D/ 3D computer graphics from scratch
+💎 **3D Software Developer**, programming in various languages & technologies while also making 2D/ 3D computer graphics from scratch
 
 💎 **Founder** of Goldanniyatech, a one-man company devoted to 3D software development & self-publication, mostly focused on video games
 
 💎 **PhD Student** at Sorbonne University, focusing on professional 3D software development & history since the early 1990s
 
-## Technologies (Expertise)
+## Technologies & Tools
 
 | **Languages**             | Assembly (MIPS) • C • C++ • C# • Java • Python  |
 | :------------------------ | :---------------------------------------------- |
