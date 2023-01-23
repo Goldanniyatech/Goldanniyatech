@@ -21,4 +21,4 @@
 
 ## Goldanniyatech Research & Development Project
 
-The **Goldanniyatech Research & Development** monorepository contains multiple projects I'm developing from scratch, either for professional research purposes or for fun! It contains projects **Textual Games**, **Game Development** tools and **Web Development** tools. 
+The **Goldanniyatech Research & Development** monorepository contains multiple projects I'm developing from scratch, either for professional research purposes or for fun! It contains projects such as **Textual Games**, **Game Development** tools and **Web Development** tools. 
