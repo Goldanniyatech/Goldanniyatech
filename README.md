@@ -13,11 +13,12 @@
 
 ## Technologies & Tools
 
-| **Languages**             | Assembly (MIPS) • C • C++ • C# • Java • Python  |
+| **Languages**             | C • C++ • C# • Python                           |
 | :------------------------ | :---------------------------------------------- |
 | **Game Engines**          | Unity • Unreal Engine                           | 
-| **2D/ 3D Graphics**       | Adobe Photoshop • Adobe Substance3D • <br/> Autodesk 3DS Max • Autodesk Maya • Blender |
-| **Audio/ Video**          | Adobe After Effects • Adobe Premiere Pro        |
-| **Web Dev (Full Stack)**  | HTML • CSS • JavaScript (ReactJS) • PHP         |
+| **2D/ 3D Graphics**       | Adobe Photoshop • Adobe Substance3D • <br/> Autodesk 3DS Max • Autodesk Maya • Blender • ZBrush |
+| **Web Dev**               | HTML • CSS • JavaScript • PHP                   |
 
+## Goldanniyatech Research & Development Project
 
+The **Goldanniyatech Research & Development** monorepository contains multiple projects I'm developing from scratch, either for professional research purposes or for fun! It contains projects **Textual Games**, **Game Development** tools and **Web Development** tools. 
