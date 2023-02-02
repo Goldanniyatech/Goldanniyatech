@@ -18,5 +18,5 @@
 | **Game Engines**            | Unity • Unreal                                                       | 
 | **3D Graphics**             | Photoshop • Substance3D • 3DS Max • Maya • Blender • ZBrush          |
 | **Web Dev**                 | HTML • CSS • JavaScript • PHP                                        |
-| **Languages (Human)**       | American English (Bilingual) • French (Native) • Spanish (Beginner)  |
+| **Languages (Natural)**       | American English (Bilingual) • French (Native) • Spanish (Beginner)  |
 
