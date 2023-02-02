@@ -13,10 +13,10 @@
 
 ## Expertise
 
-| **Languages (Programming)** | C++ • C# • Python                                                    |
+| **Programming Languages** | C++ • C# • Python                                                    |
 | :------------------------   | :----------------------------------------------                      |
 | **Game Engines**            | Unity • Unreal                                                       | 
 | **3D Graphics**             | Photoshop • Substance3D • 3DS Max • Maya • Blender • ZBrush          |
 | **Web Dev**                 | HTML • CSS • JavaScript • PHP                                        |
-| **Languages (Natural)**       | American English (Bilingual) • French (Native) • Spanish (Beginner)  |
+| **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)  |
 
