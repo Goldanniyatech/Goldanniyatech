@@ -13,10 +13,11 @@
 
 ## Expertise
 
-| **Programming Languages** | C++ • C# • Python                                                    |
-| :------------------------   | :----------------------------------------------                      |
-| **Game Engines**            | Unity • Unreal                                                       | 
-| **3D Graphics**             | Photoshop • Substance3D • 3DS Max • Maya • Blender • ZBrush          |
-| **Web Dev**                 | HTML • CSS • JavaScript • PHP                                        |
-| **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)  |
+| **Fields of expertise**     | Computer Science (programming • 3D Graphics • Web Dev) • Semiology • Gaming   |
+| :------------------------   | :----------------------------------------------                               |
+| **Programming Languages**   | Assembly (MIPS) • C • C++ • C# • Java • Python                                |
+| **Game Engines**            | Godot • Unity • Unreal                                                        | 
+| **3D Graphics**             | Photoshop • Substance3D • 3DS Max • Maya • Blender • ZBrush                   |
+| **Web Dev**                 | HTML • CSS • JavaScript & React • PHP & Symfony                               |
+| **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)           |
 
