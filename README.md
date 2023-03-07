@@ -18,7 +18,7 @@
 | **Programming Languages**   | Assembly (MIPS) • C • C++ • C# • Java • Python                                |
 | **Game Engines**            | Godot • Unity • Unreal                                                        | 
 | **3D Graphics**             | Photoshop • Substance3D • 3DS Max • Maya • Blender • ZBrush                   |
-| **Web Dev**                 | HTML • CSS • JavaScript & React • PHP & Symfony                               |
+| **Web Dev (Full Stack)**    | HTML • CSS • JavaScript & React • PHP & Symfony                               |
 | **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)           |
 
 ## Expertise (Visual Version)
@@ -32,7 +32,9 @@
 
 
 ## Statistics
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=goldanniyatech&show_icons=true&theme=transparent&hide_border">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldanniyatech&langs_count=10&bg_color=00000000&text_color=#0074B7&hide_border">
+</p>
 
-[![Yoann's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldanniyatech&show_icons=true&theme=transparent)](https://github.com/goldanniyatech)
-
-[![Yoann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goldanniyatech&langs_count=10)](https://github.com/goldanniyatech)
