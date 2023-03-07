@@ -21,3 +21,7 @@
 | **Web Dev**                 | HTML • CSS • JavaScript & React • PHP & Symfony                               |
 | **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)           |
 
+## Statistics
+[![Yoann's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldanniyatech&show_icons=true&theme=transparent)](https://github.com/goldanniyatech)
+
+[![Yoann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goldanniyatech&langs_count=10)](https://github.com/goldanniyatech)
