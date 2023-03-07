@@ -11,7 +11,7 @@
 
 🎓 **PhD Student at Sorbonne University**, focusing on professional 3D software development & history since the early 1990s
 
-## Expertise
+## Expertise (Textual Version)
 
 | **Fields of expertise**     | Computer Science (programming • 3D Graphics • Web Dev) • Semiology • Gaming   |
 | :------------------------   | :----------------------------------------------                               |
@@ -21,7 +21,18 @@
 | **Web Dev**                 | HTML • CSS • JavaScript & React • PHP & Symfony                               |
 | **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)           |
 
+## Expertise (Visual Version)
+
+| **Fields of expertise**     | Computer Science • Semiology • Gaming   |
+| :------------------------   | :----------------------------------------------                               |
+| **Programming Languages**   | <img src="https://veriklick.com/wp-content/uploads/2021/12/Assembly.png" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" /> |
+| **Game Engines**            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="60" /> | 
+| **3D Graphics**             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Adobe_Substance_3D_icon.svg" height="60" /> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/3ds-max-2023-simplified-badge-75x75.png" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" /> |
+| **Web Dev (Full Stack)**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" height="60"/> |
+
+
 ## Statistics
+
 [![Yoann's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldanniyatech&show_icons=true&theme=transparent)](https://github.com/goldanniyatech)
 
 [![Yoann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goldanniyatech&langs_count=10)](https://github.com/goldanniyatech)
