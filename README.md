@@ -11,7 +11,7 @@
 
 🎓 **PhD Student at Sorbonne University**, focusing on professional 3D software development & history since the early 1990s
 
-## Expertise (Textual Version)
+## Expertise
 
 | **Fields of expertise**     | Computer Science (programming • 3D Graphics • Web Dev) • Semiology • Gaming   |
 | :------------------------   | :----------------------------------------------                               |
