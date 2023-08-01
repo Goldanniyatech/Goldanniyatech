@@ -15,7 +15,8 @@
 
 | **Programming Languages**   | C • C++ • C# • Java • Python                                                  |
 | :------------------------   | :----------------------------------------------                               |
-| **Game Engines**            | Unity • Unreal                                                                | 
-| **3D Graphics**             | Photoshop • Substance3D • 3DS Max • Maya • Blender                            |
-| **Web Dev (Frontend)**      | HTML • CSS • JavaScript • React                                               |
+| **Game Engine**             | Unreal Engine                                                                 | 
+| **3D Graphics**             | Blender • Photoshop • Substance3D (Painter, Designer)                         |
+| **Frontend Web Dev**        | HTML • CSS • JavaScript • React                                               |
+| **Miscellaneous**           | Microsoft Office (Excel, PowerPoint, Word) • Adobe Audition • Premiere Pro    |
 | **Natural Languages**       | American English (Bilingual) • French (Native) • Spanish (Beginner)           |
