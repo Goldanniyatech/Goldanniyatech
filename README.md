@@ -1,8 +1,5 @@
 <!--  URL: https://github.com/Goldanniyatech/Goldanniyatech -->
-# Yoann AMAR ASSOULINE ([Goldanniyatech](https://www.goldanniyatech.com/)) 
-
-[![Banner](Data/Golda-Banner.png?raw=true "Goldanniyatech Banner")](https://www.goldanniyatech.com/)
-
+# Yoann AMAR ASSOULINE ([Goldanniyatech](https://www.goldanniyatech.com/))
 🎮 3D Game Developer & Founder of Goldanniyatech
 
 🏙️ Doctoral/ PhD Student in Linguistics (Semiology) from Sorbonne University
