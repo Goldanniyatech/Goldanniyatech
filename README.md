@@ -1,5 +1,5 @@
 <!--  URL: https://github.com/Goldanniyatech/Goldanniyatech -->
-# Yoann AMAR ASSOULINE ([Goldanniyatech](https://www.goldanniyatech.com/))
+# Yoann AMAR ASSOULINE | [Goldanniyatech](https://www.goldanniyatech.com/)
 
 🎮 Solo 3D Software Developer & Founder of Goldanniyatech
 
