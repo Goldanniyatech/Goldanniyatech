@@ -1,11 +1,11 @@
 <!--  URL: https://github.com/Goldanniyatech/Goldanniyatech -->
 # Yoann AMAR ASSOULINE | [Goldanniyatech](https://www.goldanniyatech.com/)
 
-🎮 3D Game Developer & Founder of Goldanniyatech
+🎮 Solo 3D Game Developer & Founder of Goldanniyatech
 
-🖥️ Computer Science Professor
+🖥️ Professor of Computer Science
 
-🎓 PhD in Semiotics (Sorbonne University)
+🎓 Doctor (PhD) in Semiotics (Sorbonne University)
 
 💽 Creating 3D Games alone & from scratch (Blender, Substance3D, Unreal, C++...)
 
