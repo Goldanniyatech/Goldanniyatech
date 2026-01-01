@@ -13,6 +13,6 @@ I'm a **3D Game Developer**, **Computer Science Instructor**, **PhD in Semiotics
 
 💠 [Epic Games](https://store.epicgames.com/p/goldanniyatech-a0c4db)
 
-## Learn More 
+## Visit my Website 
 
-💠 Visit my website [Goldanniyatech.com](https://www.goldanniyatech.com/) for details about my game, my work, and my company. 
+💠 Check [Goldanniyatech.com](https://www.goldanniyatech.com/) for details about my game, my work, and my company. 
