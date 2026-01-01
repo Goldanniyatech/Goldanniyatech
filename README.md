@@ -3,7 +3,7 @@
 
 [![Goldanniyatech Banner](Data/Goldanniyatech-Banner.jpg)](https://www.goldanniyatech.com/)
 
-I'm a **3D Game Developer**, **Founder of Goldanniyatech**, **Computer Science Instructor**, and **PhD in Semiotics**.
+I'm a **3D Game Developer**, **Computer Science Instructor**, **PhD in Semiotics**, and **Founder of Goldanniyatech**.
 
 **Goldanniyatech** is a 3D action‑adventure open‑world game that I am creating entirely alone and from scratch using **Blender**, **Unreal Engine** (Blueprints and C++), and other tools.
 
