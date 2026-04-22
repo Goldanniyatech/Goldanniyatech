@@ -13,7 +13,7 @@ In 2021, I also founded my company, **Goldanniyatech**, in order to develop my g
 
 ## Wishlist my Game
 
-**Goldanniyatech** is a 3D action‑adventure open‑world game that I am creating entirely alone and from scratch using **Blender**, **Unreal Engine** (Blueprints and C++), and other tools.
+**Goldanniyatech** is a 3D action‑adventure game in a fantasy urban city that I am creating entirely alone and from scratch using **Blender**, **Unreal Engine** (Blueprints and C++), and other tools.
 
 💠 [Steam](https://store.steampowered.com/app/3585280/Goldanniyatech/) 
 
